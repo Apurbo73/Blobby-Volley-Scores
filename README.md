@@ -1,6 +1,5 @@
 ### Blobby Volley Scores:
 
-Sure! Here's a detailed explanation of the code using the **do-while** loop:
 
 ---
 
