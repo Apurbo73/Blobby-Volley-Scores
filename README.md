@@ -25,5 +25,4 @@ After the loop finishes, we print the final scores of Alice and Bob.
 
 Using a **do-while** loop ensures the body of the loop runs at least once, which is perfect here since we want to process all points starting from index 0. The logic inside the loop is the same as in the `for` loop version — it just uses a different looping structure.
 
-Let me know if you'd like me to walk through an example!
 
